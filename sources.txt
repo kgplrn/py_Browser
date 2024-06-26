@@ -1,0 +1,16 @@
+https://browser.engineering/preface.html
+https://browser.engineering/bibliography.html
+
+
+standard:
+	https://datatracker.ietf.org/doc/html/rfc3986
+
+rest api dessertation:
+	https://twobithistory.org/2020/06/28/rest.html
+
+
+status code:
+	https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+	
+list of header:
+	https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
